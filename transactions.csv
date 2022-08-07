@@ -1,0 +1,17 @@
+title,income_or_expense,item_income,item_expense,month,day,year
+Salary,i,4000,0,7,1,2022
+Groceries,e,0,234,7,3,2022
+Fuel,i,50,0,12,22,2022
+Coffee,e,0,6,2,7,2022
+Electricity Bill,e,0,143.45,11,23,2022
+Gas,e,0,123.12,11,31,2022
+Myki,e,0,8.33,9,6,2022
+Top Gun Movie ticket,e,0,19,6,15,2022
+Annual Bonus,i,3000,0,1,19,2022
+Dividend payment,i,67.98,0,2,5,2022
+MyKi,e,0,34,4,6,2022
+Air ticket,e,0,2132.34,6,2,2022
+Snacks,e,0,34.534,2,3,2022
+Tax return Refund,i,3000,0,5,7,2022
+KinoThai,e,0,100,6,7,2022
+Donuts,e,0,3.4,7,2,2022
